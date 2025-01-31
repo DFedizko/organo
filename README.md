@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+<h1>Organo</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Organo é uma aplicação desenvolvida em React que permite gerenciar e visualizar informações de membros de uma equipe.
 
-## Available Scripts
+![Imagem do Organo](public/imagens/screenshot.png)
 
-In the project directory, you can run:
+<h2>Publicação</h2>
 
-### `npm start`
+O projeto está publicado na Vercel e pode ser acessado através do seguinte link: [organo](https://organo-rho-rust.vercel.app/) 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h2>Como Executar o Projeto</h2>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Clone o repositório:
+```bash
+git clone https://github.com/DFedizko/organo.git
+```
 
-### `npm test`
+2. Instale as dependências:
+```bash
+npm install
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. Inicie a aplicação:
+```bash
+npm start
+```
 
-### `npm run build`
+<h2>Tecnologias Utilizadas</h2>
+<div>
+  <img src="https://img.shields.io/badge/css-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-239120?&style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/react-239120?&style=for-the-badge&logo=react&logoColor=white">
+</div>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h2>Funcionalidades</h2>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Adicionar novos membros à equipe
+- Visualizar os membros cadastrados
+- Limpar o formulário após a adição de um membro
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h2>Sobre</h2>
 
-### `npm run eject`
+O Organo é uma aplicação web desenvolvida com o objetivo de facilitar a gestão de equipes, permitindo que os usuários adicionem e visualizem informações sobre os membros de suas equipes de forma simples e intuitiva. 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+A ideia surgiu da necessidade de ter uma ferramenta que centralizasse dados importantes, como nome, cargo e a imagens dos integrantes, promovendo uma melhor organização e colaboração entre os membros. 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Desenvolvido com a biblioteca React, o Organo aproveita a reatividade e a modularidade do framework para oferecer uma experiência de usuário fluida e responsiva. A aplicação foi publicada na Vercel, tornando-a acessível para qualquer pessoa que deseje utilizá-la.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Este projeto é uma excelente oportunidade para praticar habilidades em desenvolvimento front-end, além de ser um exemplo prático de como criar uma aplicação do zero, desde a concepção até a publicação.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<h2>Desenvolvedor</h2>
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/74017914?v=4" width=115><br><sub>Pedro Fedizko de Castro</sub>](https://github.com/DFedizko) |
+| :---: |
