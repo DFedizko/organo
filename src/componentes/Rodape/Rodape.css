@@ -1,0 +1,20 @@
+footer {
+    background-color: #6278F7;
+    padding: 75px 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer ul {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    list-style: none;
+}
+
+footer p {
+    margin: 0;
+    font-size: 20px;
+    color: #FFF;
+}
